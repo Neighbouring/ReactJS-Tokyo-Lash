@@ -1,0 +1,9 @@
+/* FOOTER */
+footer {
+  height: 100px;
+  width: 100%;
+  background-color: var(--a-wt);
+  display: flex;
+  position: fixed;
+  bottom: 0px;
+}
