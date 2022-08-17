@@ -1,5 +1,11 @@
 import React from 'react';
-import { BrowserRouter as Router, Link, Routes, Route } from 'react-router-dom';
+import {
+  BrowserRouter as Router,
+  Link,
+  Routes,
+  Route,
+  Outlet,
+} from 'react-router-dom';
 import LashLifting from './../_3_pages/servicos/LashLifting';
 
 import '../../assets/css/styleHeader';
